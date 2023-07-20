@@ -9,6 +9,10 @@ v install impopular-guy.kdbush
 
 ## Usage
 
+```v
+import impopular_guy.kdbush
+```
+
 ### interface Point
 ```v
 interface Point {
